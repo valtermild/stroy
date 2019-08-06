@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/stroycity/static/css/main.52b28e15.chunk.css",
+    "main.js": "/stroycity/static/js/main.ca7f57c3.chunk.js",
+    "main.js.map": "/stroycity/static/js/main.ca7f57c3.chunk.js.map",
+    "runtime~main.js": "/stroycity/static/js/runtime~main.c56fe692.js",
+    "runtime~main.js.map": "/stroycity/static/js/runtime~main.c56fe692.js.map",
+    "static/css/2.4b5295fb.chunk.css": "/stroycity/static/css/2.4b5295fb.chunk.css",
+    "static/js/2.82414fa4.chunk.js": "/stroycity/static/js/2.82414fa4.chunk.js",
+    "static/js/2.82414fa4.chunk.js.map": "/stroycity/static/js/2.82414fa4.chunk.js.map",
+    "index.html": "/stroycity/index.html",
+    "precache-manifest.cffb2bd814c002fd7e79bd0e21eae15a.js": "/stroycity/precache-manifest.cffb2bd814c002fd7e79bd0e21eae15a.js",
+    "service-worker.js": "/stroycity/service-worker.js",
+    "static/css/2.4b5295fb.chunk.css.map": "/stroycity/static/css/2.4b5295fb.chunk.css.map",
+    "static/css/main.52b28e15.chunk.css.map": "/stroycity/static/css/main.52b28e15.chunk.css.map",
+    "static/media/index.scss": "/stroycity/static/media/lg.ecff1170.eot"
+  }
+}
